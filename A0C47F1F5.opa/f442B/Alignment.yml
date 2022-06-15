@@ -1,0 +1,31 @@
+segment_sources:
+  I443BF3AD:
+    type: origin_type
+    relation: translation
+    language: en
+  I3A825313:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8e1abf90145543d089ea7c047da2c86f:
+    I443BF3AD: 760027d26f214c8391120bf15ca271ae
+    I3A825313: 253d60526579417a9c1746a08bdb6713
+  f937b863f6de4ec7a04fe99e2145b833:
+    I443BF3AD: b4ade34bf14e43c986f65392f74bf4b5
+    I3A825313: a99a53a83df4482d9bd9deaeb45758a7
+  95843a2d4bd04c7c94dd97c6015d2036:
+    I443BF3AD: 252ed17177fe439f9a93ed2633a1bcb6
+    I3A825313: 3c13b184dcd04662825710ac7114cd8c
+  97ea01d025bb478dbf219fcac4706620:
+    I443BF3AD: 0ee631d1dece440498d920efa97205d0
+    I3A825313: 43c3fd74c3a546a0976bc018e015add8
+  7ede05aa9f684aca82ecc17133208e9c:
+    I443BF3AD: aa35603d1faf40c0928106ecaaf10fdf
+    I3A825313: 6aaaf457dad649dc82c9a055f351f46d
+  1c65c8cef57541e99a8648a9ef8ff713:
+    I443BF3AD: 1e67d79f13f6422cbe1bf4416e596532
+    I3A825313: 2c605d2b14a845ea8084c546343b277e
+  b870b55c1fe24607ba5b22efb52cfb19:
+    I443BF3AD: 532714572daa4d89aa54a311db03fc7d
+    I3A825313: 7facf3b8fe5a4904878477f4ad37f451
